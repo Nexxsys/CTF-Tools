@@ -11,3 +11,6 @@ Using an alias like this one makes is easier for you to search you seclists and 
 ```bash
 alias secsearch="find /usr/share/seclists -type f | fzf | xclip"
 ```
+
+### Quick Scripts
+Sometimes the exploit.py or other similar files you may find and want to use from `searchsploit` has a large number of 'header comments' and a script like [removecomments.sh](https://github.com/Nexxsys/CTF-Tools/blob/main/removecomments.sh) can help by removing those comments.
