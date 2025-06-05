@@ -44,4 +44,5 @@ ffuf -H "Host: FUZZ.$DOMAIN" \
      -c \
      -w "$WORDLIST" \
      -u "$URL" \
-     -fs "$FS
+     -fs "$FS_FILTER"
+
