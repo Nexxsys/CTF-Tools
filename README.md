@@ -1,6 +1,6 @@
 # CTF-Tools
 Scripts and other tools for CTF (Capture The Flag) activities.
-* vhost-fuzzer2.sh | a ffuf wrapper for vhost fuzzing
+* `vhost-fuzzer2.sh` | a ffuf wrapper for vhost fuzzing
 
 ## Completion Scripts
 A set of scripts to easily mark your notes directory on a CTF with _COMPLETED.  As well as a script to run the last working solution command to produce the flag in the terminal and save the flag produced to a file for future reference.
